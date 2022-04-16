@@ -194,8 +194,27 @@ body{
     box-sizing: border-box;
     border-radius: 10px;
     margin-left: 400px;
-    margin-top: -55px;
+    margin-top: -57px;
 
+
+}
+.retangulo{
+margin-left: 50px;
+margin-top: 15px;
+position: absolute;
+width: 423px;
+height: 395px;
+left: 748px;
+top: 166px;
+background: #FFFFFF;
+border-radius: 20px;
+
+}
+
+.imagem_garoto{
+
+margin-left: 630px;
+margin-top: -400px;
 
 }
 
