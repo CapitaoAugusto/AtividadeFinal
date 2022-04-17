@@ -312,3 +312,256 @@ color: #FFFFFF;
 margin-left: 50px;
 margin-top: 20px;
 }
+
+.titulo_sesao4{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #116CFF;
+    margin-left: 101px;
+    margin-top: -600px;
+}
+
+.eleanor{
+  margin-left: 101px;
+  margin-top: 50px;
+  position: absolute;
+}
+.jane{
+    margin-left: 101px;
+    margin-top: 300px;
+    position: absolute;
+}
+.cameron{
+position: absolute;
+margin-left: 1240px;
+margin-top: 50px;
+
+}
+
+.jenny{
+    position: absolute;
+    margin-left: 1240px;
+    margin-top: 300px;
+    
+    }
+
+.bloco_eleanor{
+    position: absolute;
+    position: static;
+    width: 440px;
+    height: 189px;
+    left: 723px;
+    top: 162px;
+    background: #E7F0FF;
+    border-radius: 20px;
+    margin-left: 220px;
+    margin-top: 90px;
+    
+}
+.bloco_jane{
+
+    position: absolute;
+    width: 440px;
+    height: 189px;
+    left: 723px;
+    top: 162px;
+    background: #FFE6E5;
+    border-radius: 20px;
+    margin-left: -495px;
+    margin-top: 2290px;
+    
+}
+
+.poligonoeleanor{
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 40.98px;
+    top: 36px;
+    background: #E7F0FF;
+    transform: matrix(-0.87, -0.5, -0.5, 0.87, 0, 0);
+    margin-top: 2200px;
+    margin-left: 180px;
+}
+
+.poligonojane{
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 40.98px;
+    top: 36px;
+    background: #FFE6E5;
+    transform: matrix(-0.87, -0.5, -0.5, 0.87, 0, 0);
+    margin-top: 2450px;
+    margin-left: 180px;
+}
+
+.poligonocameron{
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 40.98px;
+    top: 36px;
+    background: #FFE6E5;
+    transform: matrix(-0.87, -0.5, -0.5, 0.87, 0, 0);
+    margin-top: 2200px;
+    margin-left: 1130px;
+}
+
+
+
+
+.bloco_cameron{
+
+    position: absolute;
+    width: 440px;
+    height: 189px;
+    left: 723px;
+    top: 162px;
+    background: #FFE6E5;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 2040px;
+    
+}
+
+
+.bloco_jenny{
+
+    position: absolute;
+    width: 440px;
+    height: 189px;
+    left: 723px;
+    top: 162px;
+    background: #E7F0FF;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 2290px;
+    
+}
+.poligonojenny{
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 40.98px;
+    top: 36px;
+    background: #E7F0FF;
+    transform: matrix(-0.87, -0.5, -0.5, 0.87, 0, 0);
+    margin-top: 2450px;
+    margin-left: 1130px;
+}
+
+.nome_eleanor{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    color:#00235C;
+    margin-left: 250px;
+    margin-top: -190px;
+}
+
+.paragrafo1_sesao4{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 400px;
+    margin-top: -43px;
+
+}
+.paragrafo2_sesao4{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 270px;
+    margin-top: -60px;
+}
+
+
+.paragrafo3_sesao4{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 270px;
+    margin-top: -10px;
+}
+
+
+.estrela1_eleanor{
+
+position: absolute;
+margin-left: 250px;
+
+
+}
+.estrela2_eleanor{
+
+    position: absolute;
+    margin-left: 270px;
+    
+    
+    }
+   
+ .estrela3_eleanor{
+
+        position: absolute;
+        margin-left: 290px;
+        
+        
+}
+.estrela4_eleanor{
+
+    position: absolute;
+    margin-left: 310px;
+    
+}
+
+.estrela5_eleanor{
+
+    position: absolute;
+    margin-left: 330px;
+    
+}
+
+.aspas1_eleanor{
+
+    margin-left: 250px;
+    margin-top: 50px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.aspas2_eleanor{
+
+    margin-left: 390px;
+    margin-top: -45px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
+  
+
+
+
+
+
+
