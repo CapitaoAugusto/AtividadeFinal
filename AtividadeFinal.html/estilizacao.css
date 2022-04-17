@@ -3,8 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 body{
     background-color: blue;
+    
 }
-
+section {
+    height: 100vh;
+}
 .div1{
     margin-left: 100px;
     margin-top: 42px;
@@ -138,7 +141,7 @@ body{
     font-size:20px;
     font-weight: 700;
     color: #116CFF;
-    margin-left: 140px;
+    margin-left: 130px;
     margin-top: -60px;
 
 }
@@ -218,6 +221,20 @@ margin-top: -400px;
 
 }
 
+
+
+
+h1 {
+
+    margin-left: 600px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #00235C;
+    
+    
+    }
 p{
     font-family: 'Inter';
     font-size: 22px;
@@ -226,4 +243,72 @@ p{
     color:#00235C;
     margin-left: 110px;
     margin-top: -30px;
+}
+
+.fundobranco{
+
+    background-color: white;
+    width: 1351px;
+    margin-left: -10px;
+   
+    
+}
+
+.texto1_sesao2{
+
+ margin-top: -450px;
+
+}
+
+
+
+.texto2_sesao2{
+
+    font-family: "Inter";
+    margin-left: 600px;
+    margin-top: 10px;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    color: #00235C;  
+
+}
+.img2sesao3{
+
+margin-top: px;
+margin-left: 700px;
+
+}
+
+.titulosesao3{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+color: #FFFFFF;
+margin-top: -450px;
+margin-left: 50px;
+}
+.titulo2sesao3_alinhado{
+margin-top: -40px;
+margin-left: 50px;
+color: #FFFFFF;
+font-size: 48px;
+}
+.titulo3sesao3_alinhado{
+    margin-top: -50px;
+    margin-left: 50px;
+    color: #FFFFFF;
+    font-size: 48px;
+    }
+
+.conteudo_sesao3{
+
+font-family: 'Inter';
+font-style: normal;
+font-size: 16px;
+font-weight: 400;
+color: #FFFFFF;
+margin-left: 50px;
+margin-top: 20px;
 }
