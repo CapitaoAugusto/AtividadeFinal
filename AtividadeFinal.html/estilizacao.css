@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 body{
     background-color: blue;
     
@@ -469,14 +470,46 @@ margin-top: 50px;
     margin-top: -190px;
 }
 
+.nome_cameron{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    color:#00235C;
+    margin-left: 770px;
+    margin-top: -175px;
+}
+
+.nome_jane{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    color:#00235C;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.nome_jenny{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    color:#00235C;
+    margin-left: 770px;
+    margin-top: 75px;
+}
+
 .paragrafo1_sesao4{
     
     font-family: 'Inter';
     font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
+    font-weight: 400;
+    font-size: 21px;
     margin-left: 400px;
-    margin-top: -43px;
+    margin-top: -45px;
 
 }
 .paragrafo2_sesao4{
@@ -489,7 +522,6 @@ margin-top: 50px;
     margin-top: -60px;
 }
 
-
 .paragrafo3_sesao4{
 
     font-family: 'Inter';
@@ -500,6 +532,97 @@ margin-top: 50px;
     margin-top: -10px;
 }
 
+.paragrafo4_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    margin-left: 990px;
+    margin-top: -175px;
+}
+.paragrafo5_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 790px;
+    margin-top: -85px;
+}
+.paragrafo6_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 790px;
+    margin-top: -62px;
+}
+
+.paragrafo7_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    margin-left: 400px;
+    margin-top: 80px;
+
+}
+.paragrafo8_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 270px;
+    margin-top: 165px;
+}
+.paragrafo9_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 270px;
+    margin-top: 190px;
+}
+
+.paragrafo10_sesao4{
+   
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    margin-left: 930px;
+    margin-top: 75px;
+
+
+}
+
+.paragrafo11_sesao4{
+   
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 790px;
+    margin-top: 160px;
+
+}
+
+.paragrafo12_sesao4{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 790px;
+    margin-top: 190px;
+}
 
 .estrela1_eleanor{
 
@@ -513,8 +636,7 @@ margin-left: 250px;
     position: absolute;
     margin-left: 270px;
     
-    
-    }
+}
    
  .estrela3_eleanor{
 
@@ -537,6 +659,101 @@ margin-left: 250px;
     
 }
 
+.estrela1_cameron{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: -127px;
+
+}
+
+.estrela2_cameron{
+    position: absolute;
+    margin-left: 790px;
+    margin-top: -127px;
+
+
+}
+.estrela3_cameron{
+    position: absolute;
+    margin-left: 810px;
+    margin-top: -127px;
+
+
+}
+.estrela4_cameron{
+    position: absolute;
+    margin-left: 830px;
+    margin-top: -127px;
+
+
+}
+.estrela5_cameron{
+    position: absolute;
+    margin-left: 850px;
+    margin-top: -127px;
+
+
+}
+
+.estrela1_jane{
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 125px;
+}
+.estrela2_jane{
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 125px;
+  }
+
+  .estrela3_jane{
+    position: absolute;
+    margin-left: 290px;
+    margin-top: 125px;
+  }
+  .estrela4_jane{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 125px;
+  }
+
+  .estrela5_jane{
+    position: absolute;
+    margin-left: 330px;
+    margin-top: 125px;
+  }
+
+  .estrela1_jenny{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 125px;
+  }
+
+  .estrela2_jenny{
+    position: absolute;
+    margin-left: 790px;
+    margin-top: 125px;
+  }
+
+  .estrela3_jenny{
+    position: absolute;
+    margin-left: 810px;
+    margin-top: 125px;
+  }
+
+  .estrela4_jenny{
+    position: absolute;
+    margin-left: 830px;
+    margin-top: 125px;
+  }
+
+  .estrela5_jenny{
+    position: absolute;
+    margin-left: 850px;
+    margin-top: 125px;
+  }
+
+
 .aspas1_eleanor{
 
     margin-left: 250px;
@@ -558,10 +775,69 @@ margin-left: 250px;
     font-style: normal;
     font-weight: 400;
 }
-  
+
+.aspas1_cameron{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: -100px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.aspas2_cameron{
+    position: absolute;
+    margin-left: 910px;
+    margin-top: -70px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
 
 
+}
+.aspas1_jane{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 150px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
+.aspas2_jane{
+    position: absolute;
+    margin-left: 390px;
+    margin-top: 183px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
 
+.aspas1_jenny{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 150px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
 
-
-
+.aspas2_jenny{
+    position: absolute;
+    margin-left: 910px;
+    margin-top: 183px;
+    color: #FF463A;
+    font-family: 'Inter';
+    font-size: 32px ;
+    font-style: normal;
+    font-weight: 400;
+}
