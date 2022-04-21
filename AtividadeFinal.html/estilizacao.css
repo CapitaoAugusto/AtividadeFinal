@@ -255,6 +255,15 @@ p{
    
     
 }
+.fundobranco3{
+
+    background-color: white;
+    width: 1351px;
+    margin-left: -10px;
+    margin-top: 350px;
+   
+    
+}
 
 .texto1_sesao2{
 
@@ -1198,3 +1207,165 @@ margin-top: 400px;
     color: #116CFF;
 }
 
+.enfeite1{
+
+    position: absolute;
+    margin-left: 387px;
+}
+.enfeitemenor{
+
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+
+
+.ready{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #00235C;
+    margin-left: 470px;
+    margin-top: 60px;
+}
+.journey{
+
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #00235C;
+    margin-left: 600px;
+    margin-top: 110px;
+}
+
+.email{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00235C;
+    margin-left: 410px;
+    margin-top: 194px;
+
+}
+
+.parents{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00235C;
+    margin-left: 410px;
+    margin-top: 257px;
+    
+
+}
+
+.kidsname{
+   
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00235C;
+    margin-left: 410px;
+    margin-top: 320px;
+
+
+}
+.class{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+color: #00235C;
+margin-left: 410px;
+margin-top: 383px;
+
+}
+
+
+.retangulo{
+    margin-top: 3420px;
+    margin-left: -170px;
+    position: absolute;
+    width: 394px;
+    height: 52px;
+
+}
+.retangulo2{
+    margin-top:240px;
+    margin-left: 579px;
+    position: absolute;
+    width: 394px;
+    height: 52px;
+
+}
+.retangulo3{
+    margin-top:300px;
+    margin-left: 579px;
+    position: absolute;
+    width: 394px;
+    height: 52px;
+
+}
+
+.retangulo4{
+    margin-top:365px;
+    margin-left: 579px;
+    position: absolute;
+    width: 394px;
+    height: 52px;
+
+}
+
+.imgretangulo{
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    background: #116CFF;
+    border-radius: 10px;
+    margin-top:440px ;
+    margin-left: 770px;
+
+}
+.register{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 830px;
+    margin-top: 455px;
+
+}
+
+.fone{
+
+ position: absolute;
+ margin-left: 1200px;
+ margin-top: 300px;
+
+}
+.circulo{
+position: absolute;
+margin-top: 270px;
+margin-left: 1170px;
+
+}
+.bordalaranja{
+
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 1145px;
+
+}
