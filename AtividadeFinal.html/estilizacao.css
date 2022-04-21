@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 body{
     background-color: blue;
     
@@ -841,3 +842,359 @@ margin-left: 250px;
     font-style: normal;
     font-weight: 400;
 }
+
+/*Sesao 5*/
+
+
+.ourclass{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-size: 36px;
+font-weight: 700;  
+color: #E7F0FF;
+margin-top: 400px; 
+    
+}
+
+.div1_sesao5{
+    position: absolute;
+    width: 1166px;
+    height: 115px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 500px;
+}
+.beginner{
+   position: absolute;
+   font-family: 'Inter';
+   font-style: normal;
+   font-size: 20px;
+   font-weight: 700;
+   margin-top: 510px;
+   margin-left: 130px;
+
+}
+.estrela1_tabela{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 540px;
+  }
+  .estrela2_tabela{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 540px;
+  }
+  .estrela3_tabela{
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 540px;
+  }
+  .estrela3_tabela{
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 540px;
+  }
+  .estrela4_tabela{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 540px;
+  }
+  .estrela5_tabela{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 540px;
+  }
+  .vector{
+ position: absolute;
+ margin-top: 515px;
+ margin-left: 560px;
+
+  }
+  .relogio{
+    position: absolute;
+    margin-top: 513px;
+    margin-left: 720px;
+   
+     }
+  .texto_month {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 515px;
+    margin-left: 590px;
+    color: #00235C;
+
+
+  } 
+  .texto_6meet {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 515px;
+    margin-left: 750px;
+    color: #00235C;
+  } 
+
+  .people{
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 560px;
+   
+     }
+.texto_8kids{
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+     position: absolute;
+     margin-top: 560px;
+     margin-left: 590px;
+       
+}
+.note{
+    position: absolute;
+    margin-top: 565px;
+    margin-left: 720px;
+   
+}
+
+     .online {
+        position: absolute;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        margin-top: 562px;
+        margin-left: 750px;
+        color: #00235C;
+      } 
+.bloco_azul{
+
+    position: absolute;
+    width: 135px;
+    height: 50px;
+    background: #116CFF;
+    border-radius: 10px;
+    margin-top: 530px;
+   margin-left: 1120px;
+}
+
+.detailclass{
+
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 600;
+    font-size: 20px;
+    color:  #FFFFFF;;
+    margin-top: 542px;
+    margin-left: 1130px;
+    position: absolute;
+}
+.divtabela{
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 1166px;
+    height: 64px;
+    margin-top: 616px;
+    margin-left: 110px;
+}
+.div2tabela{
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 1166px;
+    height: 64px;
+    margin-top: 681px;
+    margin-left: 110px;
+}
+.div3tabela{
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 1166px;
+    height: 64px;
+    margin-top: 746px;
+    margin-left: 110px;
+}
+.div4tabela{
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 1166px;
+    height: 64px;
+    margin-top:811px;
+    margin-left: 110px;
+}
+.intermediate{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20px;
+    padding-top: 50px;
+    color: #116CFF;
+}
+.estrela1_div2{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -40px;
+
+}
+.estrela2_div2{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: -40px;
+
+}
+.estrela3_div2{
+    position: absolute;
+    margin-left: 540px;
+    margin-top: -40px;
+
+}
+.estrela4_div2{
+    position: absolute;
+    margin-left: 560px;
+    margin-top: -40px;
+
+}
+
+.estrela5_div2{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: -40px;
+
+}
+
+.estrela1_div3{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -40px;
+
+}
+
+.estrela2_div3{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: -40px;
+
+}
+.estrela3_div3{
+    position: absolute;
+    margin-left: 540px;
+    margin-top: -40px;
+
+}
+.estrela4_div3{
+    position: absolute;
+    margin-left: 560px;
+    margin-top: -40px;
+
+}
+.estrela1_div4{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -40px;
+
+}
+.estrela2_div4{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: -40px;
+
+}
+.estrela3_div4{
+    position: absolute;
+    margin-left: 540px;
+    margin-top: -40px;
+
+}
+.estrela4_div4{
+    position: absolute;
+    margin-left: 560px;
+    margin-top: -40px;
+
+}
+.estrela5_div4{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: -40px;
+
+}
+
+.estrelateste_div2{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 900px;
+
+}
+.texto_2500{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 1060px;
+    margin-top: -40px;
+    color: #00235C;
+
+}
+
+.expert{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20px;
+    padding-top: 50px;
+    color: #116CFF;
+}
+
+.free{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20px;
+    padding-top: 50px;
+    color: #116CFF;
+}
+.freecolor{
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 1060px;
+    margin-top: -40px;
+    color: #FF463A;
+}
+
+.texto_2900{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 1060px;
+    margin-top: -40px;
+    color: #00235C;
+
+}
+.check{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20px;
+    padding-top: 50px;
+    color: #116CFF;
+}
+
