@@ -1369,3 +1369,224 @@ margin-left: 1170px;
     margin-left: 1145px;
 
 }
+
+.div3{
+    position: absolute;
+    background-color:#00235C ;
+    width: 1351px;
+    height: 471px;
+    margin-top: 647px;
+}
+.text_2972{
+
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+color:#FFFFFF;
+margin-left: 100px;
+margin-top: 42px;
+
+}
+
+.coding{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 100px;
+    margin-top: 120px;
+
+}
+
+.instagram{
+
+position: absolute;
+margin-left: 100px;
+margin-top: 20px;
+
+}
+.youtube{
+
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 21px;
+
+}
+
+.facebook{
+
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 19px;
+
+
+}
+.google{
+
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 19px;
+
+
+}
+.company{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #116CFF;
+    margin-top: -180px;
+    margin-left: 600px ;
+
+}
+
+.about{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -130px;
+    margin-left: 600px ;
+
+}
+.contact{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 600px ;
+}
+
+.faq{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 600px ;
+
+}
+
+.ourclasstext{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #116CFF;
+    margin-top: -185px;
+    margin-left: 760px ;
+
+}
+
+.beginnertext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -135px;
+    margin-left: 760px ;
+
+}
+
+.intermediatetext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 760px ;
+}
+
+.experttext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 760px ;
+}
+
+.informationtext{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #116CFF;
+    margin-top: -185px;
+    margin-left: 980px ;
+
+}
+.registrationtext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -135px;
+    margin-left: 980px ;
+
+}
+.freetrialtext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 980px ;
+}
+
+.teachertext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 980px ;
+}
+
+.ouractivity{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #116CFF;
+    margin-top: -185px;
+    margin-left: 1170px ;
+
+}
+.galerytext{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -135px;
+    margin-left: 1170px ;
+
+}
